@@ -1,0 +1,9 @@
+\\PSBDFILESRVR.PSU-ERIE.BD.PSU.EDU\STUDENT\aam5617\Private\Documents\Visual Studio 2013\Projects\SWENG421_Lab2Part2\SWENG421_Lab2Part2\bin\Debug\SWENG421_Lab2Part2.exe.config
+\\PSBDFILESRVR.PSU-ERIE.BD.PSU.EDU\STUDENT\aam5617\Private\Documents\Visual Studio 2013\Projects\SWENG421_Lab2Part2\SWENG421_Lab2Part2\bin\Debug\SWENG421_Lab2Part2.exe
+\\PSBDFILESRVR.PSU-ERIE.BD.PSU.EDU\STUDENT\aam5617\Private\Documents\Visual Studio 2013\Projects\SWENG421_Lab2Part2\SWENG421_Lab2Part2\bin\Debug\SWENG421_Lab2Part2.pdb
+\\PSBDFILESRVR.PSU-ERIE.BD.PSU.EDU\STUDENT\aam5617\Private\Documents\Visual Studio 2013\Projects\SWENG421_Lab2Part2\SWENG421_Lab2Part2\obj\Debug\SWENG421_Lab2Part2.csprojResolveAssemblyReference.cache
+\\PSBDFILESRVR.PSU-ERIE.BD.PSU.EDU\STUDENT\aam5617\Private\Documents\Visual Studio 2013\Projects\SWENG421_Lab2Part2\SWENG421_Lab2Part2\obj\Debug\SWENG421_Lab2Part2.Properties.Resources.resources
+\\PSBDFILESRVR.PSU-ERIE.BD.PSU.EDU\STUDENT\aam5617\Private\Documents\Visual Studio 2013\Projects\SWENG421_Lab2Part2\SWENG421_Lab2Part2\obj\Debug\SWENG421_Lab2Part2.csproj.GenerateResource.Cache
+\\PSBDFILESRVR.PSU-ERIE.BD.PSU.EDU\STUDENT\aam5617\Private\Documents\Visual Studio 2013\Projects\SWENG421_Lab2Part2\SWENG421_Lab2Part2\obj\Debug\SWENG421_Lab2Part2.exe
+\\PSBDFILESRVR.PSU-ERIE.BD.PSU.EDU\STUDENT\aam5617\Private\Documents\Visual Studio 2013\Projects\SWENG421_Lab2Part2\SWENG421_Lab2Part2\obj\Debug\SWENG421_Lab2Part2.pdb
+\\Psbdfilesrvr.psu-erie.bd.psu.edu\student\AAM5617\Private\Documents\Visual Studio 2013\Projects\SWENG421_Lab2Part2\SWENG421_Lab2Part2\obj\Debug\SWENG421_Lab2Part2.Paint.resources
